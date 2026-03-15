@@ -29,4 +29,8 @@ async () => {
   console.log("hello");
 };
 
+<<<<<<< HEAD
 // adding new feature  - button
+=======
+// adding feature - form
+>>>>>>> feature
