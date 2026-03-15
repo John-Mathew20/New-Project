@@ -24,3 +24,7 @@ async function show() {
 }
 
 show();
+
+async () => {
+  console.log("hello");
+};
